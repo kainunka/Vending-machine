@@ -7,7 +7,7 @@ class Screen extends Component {
       <div className="screen">
         <p>Credits: {this.props.credit}$</p>
         <p>Your Pick: {this.props.query}</p>
-        <p>{this.props.message}</p>
+        <p className="messageShow">{this.props.message}</p>
       </div>
     )
   }

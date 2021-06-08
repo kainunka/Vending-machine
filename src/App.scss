@@ -1,6 +1,7 @@
 $white: #FFFFFF;
 $orange: #ff9c45;
 $black: #000000;
+$red: red;
 
 * {
   margin: 0;
@@ -17,6 +18,10 @@ p {
 .App {
   display: inline-block;
   justify-content: flex-start;
+}
+
+.messageShow {
+  color: $red
 }
 
 .priceProduct {

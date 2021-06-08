@@ -3,7 +3,7 @@ import { connect } from 'react-redux'
 import FrontPanel from './FrontPanel'
 import _ from 'lodash'
 import './App.scss';
-import img0 from './assets/images/0.jpeg'
+import img0 from './assets/images/0.png'
 
 class App extends Component {
   constructor() {
