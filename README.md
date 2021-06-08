@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link Web demo
+https://vending-machine-fe282.web.app/
 
 
 Features
@@ -17,6 +18,7 @@ Different features
 
 - Max amount product
 - Enter number credit
+- Use redux for items
 
 ## Available Scripts
 
