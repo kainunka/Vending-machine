@@ -22,6 +22,6 @@ Different features
 
 ### `Deploy Web`
 
-- npm run build
+- firebase deploy
 
 
