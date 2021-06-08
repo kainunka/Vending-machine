@@ -8,6 +8,9 @@ or
 
 ![alt text](https://raw.githubusercontent.com/kainunka/Vending-machine/main/diagram.png)
 
+diagram for full version
+code is just a demo (no database, no api)
+
 Features
 
 - Add credit button or custom credit
