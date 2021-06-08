@@ -22,7 +22,7 @@ Different features
 
 ## Available Scripts
 
-### `First setup`
+### `First setup & run`
 
 - npm install
 - npm start
@@ -30,9 +30,3 @@ Different features
 ### `Build Project`
 
 - npm run build
-
-### `Deploy Web`
-
-- firebase deploy
-
-
