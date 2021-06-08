@@ -13,15 +13,15 @@ Different features
 
 ### `First setup`
 
-npm install
-npm start
+- npm install
+- npm start
 
 ### `Build Project`
 
-npm run build
+- npm run build
 
 ### `Deploy Web`
 
-npm run build
+- npm run build
 
 
