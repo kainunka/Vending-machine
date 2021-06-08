@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 Link Web demo
-https://vending-machine-fe282.web.app/
+- https://vendingmachine01.herokuapp.com/
+or
+- https://vending-machine-fe282.web.app/
 
 
 Features
