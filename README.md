@@ -6,6 +6,8 @@ or
 - https://vending-machine-fe282.web.app/
 
 
+![alt text](https://raw.githubusercontent.com/kainunka/Vending-machine/main/diagram.png)
+
 Features
 
 - Add credit button or custom credit
