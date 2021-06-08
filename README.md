@@ -2,12 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project base on https://github.com/nistorsergiu2112/Vending-machine-React.git
+
+Different features
+
+- Max amount product
+- Enter number credit
+
 ## Available Scripts
 
-### `npm install`
+### `First setup`
 
-### `npm start`
+## `npm install`
 
-### `npm run build`
+## `npm start`
+
+### `Build Project`
+
+## `npm run build`
+
+### `Deploy Web`
+
+## `npm run build`
 
 
