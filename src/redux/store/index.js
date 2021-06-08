@@ -1,13 +1,9 @@
 import { createStore , applyMiddleware} from 'redux'
 import thunk from 'redux-thunk'
-import rootReducer from '../reducers'
-import AsyncMiddleware from '../reducers/middleware/async';
-import CombineActionsMiddleware from '../reducers/middleware/combine-async-actions';
+import rootReducer from './reducers'
 
 const _getMiddleware = () => {
-  const combineMiddleware = new CombineActionsMiddleware().create();
-  const asyncMiddleware = new AsyncMiddleware().create();
-  return [thunk, combineMiddleware, asyncMiddleware];
+  return [thunk];
 };
 const middleware = _getMiddleware();
 const composedMiddlewares = applyMiddleware(...middleware);
